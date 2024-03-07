@@ -1,16 +1,28 @@
-### Hi there 👋
+#  Introducing Myself
 
-<!--
-**AllenDufort/AllenDufort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Allen Dufort. Software engineer with experience in Web Design, Machine Learning, Deep Learning, AI Programming, Predictive Modeling, Data Analysis, Cybersecurity, Quality Assurance Testing, and Test Automation.
 
-Here are some ideas to get you started:
+## Table of Contents
+[Projects](##Projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Tools](##Tools)
+
+[Connect with me](##Connect with Me)
+
+[Contacts](##Contacts)
+
+📚 ##Projects
+Welcome to my portfolio, where I showcase my projects.
+
+🛠️ ##Tools
+Language: Python, JavaScript, C, Java, ReactJS, TypeScript, HTML, CSS, Apache Spark 
+Database: MySQL, MongoDB
+Computing platforms: Linux, MacOS, Jupyter Notebook
+Visualization: Tableau, Looker Studio
+
+👋🏻 ##Connect with Me
+[Linkedin](https://www.linkedin.com/in/allen-dufort/)
+
+📥 ##Contacts
+Personal email: allendufort2020@gmail.com
+School email: allen_dufort@brown.edu
