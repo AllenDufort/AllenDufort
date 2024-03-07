@@ -19,15 +19,15 @@ Welcome to my portfolio, where I showcase my projects.
 | [Tower of Babel](google.com) | Dec 2023 | Python, Jupyter Notebook, ??? | ??? |
 
 
-🛠️ ## Tools
+## Tools
 Language: Python, JavaScript, C, Java, ReactJS, TypeScript, HTML, CSS
 Database platforms and engines: MySQL, MongoDB, Apache Spark 
 Computing platforms: Linux, MacOS, Jupyter Notebook
 Visualization: Tableau, Looker Studio
 
-👋🏻 ## Connect with Me
+## Connect with Me
 [Linkedin](https://www.linkedin.com/in/allen-dufort/)
 
-📥 ## Contacts
+## Contacts
 Personal email: allendufort2020@gmail.com
 School email: allen_dufort@brown.edu
