@@ -11,7 +11,7 @@ Hello, I'm Allen Dufort. Software engineer with experience in Web Design, Machin
 
 [Contacts](## Contacts)
 
-📚 ## Projects
+## Projects
 Welcome to my portfolio, where I showcase my projects.
 
 🛠️ ## Tools
