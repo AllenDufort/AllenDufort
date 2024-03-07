@@ -20,10 +20,9 @@ Welcome to my portfolio, where I showcase my projects.
 
 
 # Tools
-Language: Python, JavaScript, C, Java, ReactJS, TypeScript, HTML, CSS
-Database platforms and engines: MySQL, MongoDB, Apache Spark 
-Computing platforms: Linux, MacOS, Jupyter Notebook
-Visualization: Tableau, Looker Studio
+- Language: Python, JavaScript, C, Java, ReactJS, TypeScript, HTML, CSS
+- Database platforms and engines: MySQL, MongoDB, Apache Spark 
+- Computing platforms: Linux, MacOS, Jupyter Notebook
 
 # Connect with Me
 [Linkedin](https://www.linkedin.com/in/allen-dufort/)
