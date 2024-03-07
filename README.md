@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my projects.
 | [Rendering 360º Images into Paintings](google.com) | Dec 2023 | Python, Jupyter Notebook, ??? | ??? |
 | [Seq2Seq](google.com) | Nov 2023 | Python, Jupyter Notebook, ??? | ??? |
 | [OffBrandOffWhite](google.com) | May 2023 | Java, Javascript, ReactJS | ??? |
-| [Tower of Babel](google.com) | Dec 2023 | Python, Jupyter Notebook, ??? | ??? |
+| [Tower of Babel](google.com) | Dec 2022 | Python, Jupyter Notebook, ??? | ??? |
 
 
 # Tools
