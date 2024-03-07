@@ -3,13 +3,10 @@
 Hello, I'm Allen Dufort. Software engineer with experience in Web Design, Machine Learning, Deep Learning, AI Programming, Predictive Modeling, Data Analysis, Cybersecurity, Quality Assurance Testing, and Test Automation.
 
 ## Table of Contents
-[Projects](## Projects)
-
-[Tools](## Tools)
-
-[Connect with me](## Connect with Me)
-
-[Contacts](## Contacts)
+- [Projects](##projects)
+- [Tools](##tools)
+- [Connect with me](##connect-with-me)
+- [Contacts](##contacts)
 
 ## Projects
 Welcome to my portfolio, where I showcase my projects.
