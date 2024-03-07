@@ -29,5 +29,5 @@ Visualization: Tableau, Looker Studio
 [Linkedin](https://www.linkedin.com/in/allen-dufort/)
 
 # Contacts
-Personal email: allendufort2020@gmail.com
-School email: allen_dufort@brown.edu
+- Personal email: allendufort2020@gmail.com
+- School email: allen_dufort@brown.edu
