@@ -25,7 +25,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Computing platforms: Linux, MacOS, Jupyter Notebook
 
 # Connect with Me
-[Linkedin](https://www.linkedin.com/in/allen-dufort/)
+- [Linkedin](https://www.linkedin.com/in/allen-dufort/)
 
 # Contacts
 - Personal email: allendufort2020@gmail.com
