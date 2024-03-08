@@ -14,9 +14,9 @@ Welcome to my portfolio, where I showcase my projects.
 | Project Link | Completion Date | Tools | Project Description |
 | ------------ | --------------- | ----- | ------------------- |
 | [Rendering 360º Images into Paintings](google.com) | Dec 2023 | Python, Jupyter Notebook, ??? | ??? |
-| [Seq2Seq](google.com) | Nov 2023 | Python, Jupyter Notebook, ??? | ??? |
+| [Semantic Parsing](https://colab.research.google.com/drive/1zbVABMVLFNlcY-vYr-oRZtueXgTPKAs4?authuser=1) | Nov 2023 | Python, Jupyter Notebook, PyTorch | To use an attention-enhanced encoder-decoder model to encode input utterances into vector representations, and then generate the inputs' logical forms using the vector representations. Here is a [video](https://drive.google.com/file/d/176a2piKtrMsFLV2tA9hwRHFMGefoFjpp/view?usp=drive_link) explaining my results. |
 | [OffBrandOffWhite](google.com) | May 2023 | Java, Javascript, ReactJS | ??? |
-| [Tower of Babel](google.com) | Dec 2022 | Python, Jupyter Notebook, ??? | ??? |
+| [Tower of Babel](https://devpost.com/software/tower-of-babel) | Dec 2022 | Python, Jupyter Notebook, nltk, pandas, numpy, matplotlib, sklearn, keras | The primary goal was to automate the process of classifying newspapers into one of 5 categories (business, tech, politics, sport, and entertainment) based on the text and article title. The secondary goal was to compare the accuracies of the classification using 9 different models (e.g. Logistic Regression, Multilayer Perceptron). Success was defined as achieving a classification accuracy of over 60% for all models. Since all accuracies were above 75%, with a high of 98%, we deemed this project successful. |
 
 
 # Tools
