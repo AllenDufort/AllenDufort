@@ -1,4 +1,5 @@
 #  Introducing Myself
+## Hi, I'm Allen.
 I'm passionate about using AI and ML to transform data analysis and about making AI technology accessible to everyone!
 
 # Table of Contents
