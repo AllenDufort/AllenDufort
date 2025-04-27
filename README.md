@@ -1,6 +1,5 @@
 #  Introducing Myself
-
-Hello, I'm Allen Dufort. Software engineer with experience in Web Design, Machine Learning, Deep Learning, AI Programming, Predictive Modeling, Data Analysis, Cybersecurity, Quality Assurance Testing, and Test Automation.
+I'm passionate about using AI and ML to transform data analysis and about making AI technology accessible to everyone!
 
 # Table of Contents
 - [Projects](#projects)
